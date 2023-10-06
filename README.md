@@ -16,4 +16,4 @@ Hello! I'm a self-taught frontend developer from Brazil
 
 <br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bagestan&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bagestan&layout=compact&theme=tokyonight&hide_border=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bagestan&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bagestan&layout=compact&theme=tokyonight&hide_border=true" />
