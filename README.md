@@ -1,4 +1,4 @@
-<p align="center">Andre Bagestan</p>
+<p align="center"><strong>Andre Bagestan</strong></p>
 
 <br />
 
