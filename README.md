@@ -1,8 +1,6 @@
-<p align="center"><strong>Andre Bagestan</strong></p>
+<h1 align="center"><strong>Andre Bagestan</strong></h1>
 
-<br />
-
-Hello! I'm a self-taught frontend developer from Brazil
+<p>Hello! I'm a self-taught frontend developer from Brazil</p>
 
 <br />
 
