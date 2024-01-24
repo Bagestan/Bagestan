@@ -1,12 +1,12 @@
 <h1 align="center"><strong>Andre Bagestan</strong></h1>
 
-<p>Hello! I'm a self-taught frontend developer from Brazil</p>
+<p>Hello! I'm a frontend developer from Brazil</p>
 
 <br />
 
 **About me**
 
-- 💼 Frontend Developer at [ACCL](http://www.accl.com.br/)
+- 💼 Frontend Developer at [ACCL](http://www.accl.com.br/) since 2023/01
 
 - 💪 Always learning
 
