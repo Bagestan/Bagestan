@@ -6,7 +6,7 @@
 
 **About me**
 
-- 💼 Frontend Developer at [ACCL](http://www.accl.com.br/) since 2023/01
+- 💼 Frontend Developer with Angular since 2023/01
 
 - 💪 Always learning
 
