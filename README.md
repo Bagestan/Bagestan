@@ -11,12 +11,7 @@
 
 - ✉ Contact: andrebagestan@gmail.com
 
-<br />
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bagestan&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bagestan&layout=compact&theme=tokyonight&hide_border=true" />
-
 ## ⚡ Technologies
-
 
 Frontend
 
@@ -36,8 +31,8 @@ Backend:
 
 Database:
 
-![MySLQ](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![](https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 Cloud:
 
@@ -54,3 +49,6 @@ Tools:
 IDEs:
 
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Bagestan&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true"/> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bagestan&layout=compact&theme=tokyonight&hide_border=true" />
+
