@@ -5,7 +5,7 @@
 
 ## 🕸 About me
 
-- 💼 Frontend Developer
+- 💼 Full-stack Developer
 
 - 💪 Always learning
 
