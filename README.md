@@ -4,7 +4,7 @@
 
 **Full-Stack Developer** · Angular · TypeScript · NestJS
 
-📍 Montebelluna, Italy · Open to remote opportunities
+📍 Italy · Open to remote opportunities
 
 [![Email](https://img.shields.io/badge/-andrebagestan%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:andrebagestan@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logoColor=white)](https://linkedin.com/in/andrebagestan)
